@@ -1,0 +1,12 @@
+# Ignore bin folder
+bin/
+
+# Private files
+cert.pem
+key.pem
+
+# vim files
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
